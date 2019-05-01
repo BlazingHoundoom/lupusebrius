@@ -1,0 +1,12 @@
+{"projects": [
+    {
+        "name": "The Dungeon Master",
+        "image": "/images/DungeonMaster.png",
+        "description": "A dungeon generator and editor for Game Masters to use to help in homebrew adventures."
+    },
+    {
+        "name": " Ball-Peen Hammer",
+        "image": "/images/hammer-2-low-gloss.png",
+        "description": "My first successful 3D model built and rendered in Blender 2.8 beta using Blender's new rendering engine EEVEE. "
+    }
+]}
