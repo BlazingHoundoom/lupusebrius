@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/lupusebrius/static/js/runtime~main.fdc999dd.js"
   },
   {
-    "revision": "9e808f9bde38eb0767e9",
-    "url": "/lupusebrius/static/js/main.1dfd2b5e.chunk.js"
+    "revision": "9c3e59bee21685f2b108",
+    "url": "/lupusebrius/static/js/main.f601dd57.chunk.js"
   },
   {
     "revision": "144c82feb598c9833805",
     "url": "/lupusebrius/static/js/2.95e93608.chunk.js"
   },
   {
-    "revision": "9e808f9bde38eb0767e9",
-    "url": "/lupusebrius/static/css/main.218b290f.chunk.css"
+    "revision": "9c3e59bee21685f2b108",
+    "url": "/lupusebrius/static/css/main.529ff949.chunk.css"
   },
   {
-    "revision": "3d47b732b0a97633378f40f004335937",
+    "revision": "1a0c6b50fe36291db5c47c6771b07b38",
     "url": "/lupusebrius/index.html"
   }
 ];
