@@ -77,9 +77,12 @@ img{
   flex-wrap: wrap;
 }
 #ProjectView{
-  height: 250px;
+  width: 250px;
+  
 }
-
+.ProjectImage{
+  height: 150px;
+}
 .Content{
   flex: 6.5;
   background-color: #eab88a;

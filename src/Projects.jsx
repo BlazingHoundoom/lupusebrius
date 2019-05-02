@@ -32,7 +32,7 @@ class Projects extends Component{
 const ProjectView  = ({props, name, image, description}) => {
         return(
             <div id='ProjectView'>
-                <img src={image} alt={name}/>
+                <img class="ProjectImage" src={image} alt={name}/>
                 <h3>{name}</h3>
                 <p>{description}</p>
             </div>
