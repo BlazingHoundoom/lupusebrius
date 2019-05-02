@@ -100,6 +100,28 @@ img{
   margin-left: 1px; 
 }
 
+.Home{
+  text-align: left;
+  margin: 10px;
+
+}
+.Headers{
+  margin-left: 5px;
+}
+.Sections{
+  background-color: #fcca9c;
+  border-radius: 5px;
+  box-shadow: #000000 1px 1px 5px;
+}
+#FeaturedProducts{
+  display: flex;
+  flex-direction: row;
+}
+.FeaturedProduct{
+  margin: 5px;
+  
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

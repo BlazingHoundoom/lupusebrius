@@ -1,12 +1,17 @@
 {"projects": [
     {
         "name": "The Dungeon Master",
-        "image": "/images/DungeonMaster.png",
+        "image": "https://blazinghoundoom.github.io/lupusebrius/images/DungeonMaster.png",
         "description": "A dungeon generator and editor for Game Masters to use to help in homebrew adventures."
     },
     {
-        "name": " Ball-Peen Hammer",
-        "image": "/images/hammer-2-low-gloss.png",
+        "name": "Ball-Peen Hammer",
+        "image": "https://blazinghoundoom.github.io/lupusebrius/images/hammer-2-low-gloss.png",
         "description": "My first successful 3D model built and rendered in Blender 2.8 beta using Blender's new rendering engine EEVEE. "
+    },
+    {
+        "name": "Custom Headphone Stand",
+        "image": "https://blazinghoundoom.github.io/lupusebrius/images/HeadphoneStandModel.png",
+        "description": "A custom headphone stand made from scratch for 3D Printing. Built in Fusion360 and features personal logo and Kekistani symbol."
     }
 ]}
