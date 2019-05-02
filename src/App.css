@@ -74,6 +74,7 @@ img{
 .Projects{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 #ProjectView{
   width: 500px;
