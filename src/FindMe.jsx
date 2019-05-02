@@ -10,9 +10,9 @@ class FindMe extends Component{
     render(){
         return(
             <div className='FindMe'>
-                <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/matthewguernsey/'>
-                linkedin
-                </a>
+                <p>Contact me: mattjguernsey@gmail.com</p>
+                <p>Connect with me on <a target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/matthewguernsey/'>
+                Linkedin</a></p>
             </div>
         )
     }

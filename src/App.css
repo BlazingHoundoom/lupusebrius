@@ -109,7 +109,7 @@ img{
   margin-left: 5px;
 }
 .Sections{
-  background-color: #fcca9c;
+  background-color: #fdcea2;
   border-radius: 5px;
   box-shadow: #000000 1px 1px 5px;
 }
@@ -119,7 +119,7 @@ img{
 }
 .FeaturedProduct{
   margin: 5px;
-  
+
 }
 
 @keyframes App-logo-spin {
