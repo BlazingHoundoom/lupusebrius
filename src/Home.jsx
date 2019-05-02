@@ -32,7 +32,7 @@ class Home extends Component{
 }
     const FeaturedProject  = ({props,image, name}) => {
         return(
-            <div id='FeaturedProject'>
+            <div class='FeaturedProject'>
                 <img src={image} alt={name}/>
             </div>
             )

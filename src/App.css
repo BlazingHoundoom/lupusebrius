@@ -128,7 +128,7 @@ img{
 }
 .FeaturedProject{
   margin: 5px;
-
+  height: 150px;
 }
 
 @keyframes App-logo-spin {
