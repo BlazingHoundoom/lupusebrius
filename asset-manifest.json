@@ -1,5 +1,5 @@
 {
-  "main.css": "/lupusebrius/static/css/main.0e1b3b96.chunk.css",
+  "main.css": "/lupusebrius/static/css/main.218b290f.chunk.css",
   "main.js": "/lupusebrius/static/js/main.1dfd2b5e.chunk.js",
   "main.js.map": "/lupusebrius/static/js/main.1dfd2b5e.chunk.js.map",
   "runtime~main.js": "/lupusebrius/static/js/runtime~main.fdc999dd.js",
@@ -7,8 +7,8 @@
   "static/js/2.95e93608.chunk.js": "/lupusebrius/static/js/2.95e93608.chunk.js",
   "static/js/2.95e93608.chunk.js.map": "/lupusebrius/static/js/2.95e93608.chunk.js.map",
   "index.html": "/lupusebrius/index.html",
-  "precache-manifest.231f46f1d0c30062151ea3ff9dbbfc65.js": "/lupusebrius/precache-manifest.231f46f1d0c30062151ea3ff9dbbfc65.js",
+  "precache-manifest.d9b880bfbceaec0c7483f07e7c56f33d.js": "/lupusebrius/precache-manifest.d9b880bfbceaec0c7483f07e7c56f33d.js",
   "service-worker.js": "/lupusebrius/service-worker.js",
-  "static/css/main.0e1b3b96.chunk.css.map": "/lupusebrius/static/css/main.0e1b3b96.chunk.css.map",
+  "static/css/main.218b290f.chunk.css.map": "/lupusebrius/static/css/main.218b290f.chunk.css.map",
   "static/media/LupusEbriusLogo.svg": "/lupusebrius/static/media/LupusEbriusLogo.4fcf63f8.svg"
 }
