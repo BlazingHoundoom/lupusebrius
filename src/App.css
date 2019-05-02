@@ -122,11 +122,11 @@ img{
   padding: 5px;
   margin: 10px;
 }
-#FeaturedProducts{
+#FeaturedProjects{
   display: flex;
   flex-direction: row;
 }
-.FeaturedProduct{
+.FeaturedProject{
   margin: 5px;
 
 }
