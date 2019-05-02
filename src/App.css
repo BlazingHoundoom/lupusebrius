@@ -114,6 +114,7 @@ img{
   border-radius: 5px;
   box-shadow: #000000 1px 1px 5px;
   padding: 5px;
+  margin: 10px;
 }
 #FeaturedProducts{
   display: flex;
