@@ -31,11 +31,6 @@
   color: #61dafb;
 }
 
-img{
-  width: 250px;
-  height: auto;
-}
-
 .Nav{
   flex: 1;
   min-height: 100vh;
