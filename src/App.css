@@ -78,6 +78,9 @@ img{
 }
 #ProjectView{
   width: 250px;
+  margin: 10px;
+  margin-right: 5px;
+
   
 }
 .ProjectImage{
