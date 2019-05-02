@@ -112,8 +112,7 @@
 }
 .Sections{
   background-color: #fdcea2;
-  border-radius: 5px;
-  box-shadow: #000000 1px 1px 5px;
+  box-shadow: #000000 1px 1px 10px;
   padding: 5px;
   margin: 10px;
 }
