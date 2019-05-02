@@ -20,7 +20,7 @@ class Projects extends Component{
         }
         return(
             <div>
-            <p>Here are my Projects!</p>
+            <h2>Projects</h2>
             <div className='Projects'>
                 {projects}
             </div>
